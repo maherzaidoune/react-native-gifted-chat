@@ -13,7 +13,7 @@
     "react": "16.3.1",
     "react-native": "0.60.0",
     "react-native-gifted-chat": "^0.4.3",
-    "snyk": "^1.235.1"
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "babel-jest": "22.4.3",
