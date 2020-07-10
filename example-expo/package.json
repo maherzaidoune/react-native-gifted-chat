@@ -10,7 +10,7 @@
       "watchman watch-del-all && rm -f yarn.lock && rm -rf node_modules && rm -rf $TMPDIR/react-* && yarn cache clean"
   },
   "dependencies": {
-    "expo": "^25.0.0",
+    "expo": "^26.0.0",
     "react": "16.2.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
     "react-native-gifted-chat": "FaridSafi/react-native-gifted-chat",
